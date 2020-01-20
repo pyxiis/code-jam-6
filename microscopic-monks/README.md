@@ -1,7 +1,7 @@
 # Microscopic Monks
 ![banner](https://i.imgur.com/evuU9us.png)
 
-Primal is an uncompromising "roguelike" wilderness survival game. Explore the world, craft new technologies… the rest is up to you.
+Primal is an uncompromising "roguelike" wilderness survival game. Explore the world, craft new technologies and most importantly survive! The rest is in your hands.
 
 ## Installation
 
