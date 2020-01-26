@@ -41,12 +41,8 @@ class GameScreen(Screen):
         self.health_bar = HealthBar((20, 680), (250, 20), 100.0)
         self.health_bar.draw(self.canvas)
 
-        
-        
-        
-       
-
         self.inventory = Inventory((20, 20))
+        self.inventory.update()
         self.inventory.draw(self.canvas)
         self.gui_camera.end_region()
         self.timer = 0
